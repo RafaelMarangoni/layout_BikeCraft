@@ -13,15 +13,15 @@
 
 		<header class="header">
 			<div class="container">
-				<a href="index.html" class="grid-4">
+				<a href="index.php" class="grid-4">
 					<img src="img/bikcraft.svg" alt="Bikcraft">
 				</a>
 				<nav class="grid-12 header_menu">
 					<ul>
-						<li><a href="sobre.html">Sobre</a></li>
-						<li><a href="produtos.html">Produtos</a></li>
-						<li><a href="portfolio.html">Portfólio</a></li>
-						<li><a href="contato.html">Contato</a></li>
+						<li><a href="sobre.php">Sobre</a></li>
+						<li><a href="produtos.php">Produtos</a></li>
+						<li><a href="portfolio.php">Portfólio</a></li>
+						<li><a href="contato.php">Contato</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -34,7 +34,7 @@
 					<p>“não tenha nada em sua casa que você não considere útil ou acredita ser bonito”</p>
 					<cite>WILLIAM MORRIS</cite>
 				</blockquote>
-				<a href="produtos.html" class="btn">Orçamento</a>
+				<a href="produtos.php" class="btn">Orçamento</a>
 			</div>
 		</section>
 		
@@ -70,7 +70,7 @@
 
 			<div class="call">
 				<p>clique aqui e veja os detalhes dos produtos</p>
-				<a href="produtos.html" class="btn btn-preto">Produtos</a>
+				<a href="produtos.php" class="btn btn-preto">Produtos</a>
 			</div>
 
 		</section>
@@ -86,7 +86,7 @@
 				</ul>
 				<div class="call">
 					<p>conheça mais o nosso portfólio</p>
-					<a href="portfolio.html" class="btn">Portfólio</a>
+					<a href="portfolio.php" class="btn">Portfólio</a>
 				</div>
 			</div>
 		</section>
@@ -110,7 +110,7 @@
 			</ul>
 			<div class="call">
 				<p>conheça mais a nossa história</p>
-				<a href="sobre.html" class="btn btn-preto">Sobre</a>
+				<a href="sobre.php" class="btn btn-preto">Sobre</a>
 			</div>
 		</section>
 

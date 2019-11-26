@@ -19,10 +19,10 @@
 				</a>
 				<nav class="grid-12 header_menu">
 					<ul>
-						<li><a href="sobre.html">Sobre</a></li>
-						<li><a href="produtos.html">Produtos</a></li>
-						<li><a href="portfolio.html" class="menu_ativo">Portfólio</a></li>
-						<li><a href="contato.html">Contato</a></li>
+						<li><a href="sobre.php">Sobre</a></li>
+						<li><a href="produtos.php">Produtos</a></li>
+						<li><a href="portfolio.php" class="menu_ativo">Portfólio</a></li>
+						<li><a href="contato.php">Contato</a></li>
 					</ul>
 				</nav>
 			</div>
